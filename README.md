@@ -7,5 +7,5 @@ It allows you to use a smarter `Formatting#format` method.
 
 ```ruby
 require 'cinch'
-require 'cinch/colorize
+require 'cinch/colorize'
 ```
