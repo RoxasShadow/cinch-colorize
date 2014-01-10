@@ -15,3 +15,9 @@ class String
     }.join
   end
 end
+
+class Numeric
+  def colorize(color = :red, n = 435)
+    self.to_s.colorize color, n
+  end
+end
