@@ -1,6 +1,6 @@
 Gem::Specification.new { |s|
 	s.name          = 'cinch-colorize'
-	s.version       = '0.2'
+	s.version       = '0.3'
 	s.author        = 'Giovanni Capuano'
 	s.email         = 'webmaster@giovannicapuano.net'
 	s.homepage      = 'http://www.giovannicapuano.net'

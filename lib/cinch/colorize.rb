@@ -16,6 +16,12 @@ class String
   end
 end
 
+class Symbol
+  def colorize(color = :red, n = 435)
+    self.to_s.colorize color, n
+  end
+end
+
 class Numeric
   def colorize(color = :red, n = 435)
     self.to_s.colorize color, n
